@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-15T07:25:52 IST" name="Default suite" finished-at="2022-09-15T07:26:07 IST" duration-ms="14218">
+    <groups>
+    </groups>
+    <test started-at="2022-09-15T07:25:52 IST" name="Default test" finished-at="2022-09-15T07:26:07 IST" duration-ms="14218">
+      <class name="com.android.app.MobileBrowserTest">
+        <test-method is-config="true" signature="configureAppium()[pri:0, instance:com.android.app.MobileBrowserTest@741a8937]" started-at="2022-09-15T07:25:52 IST" name="configureAppium" finished-at="2022-09-15T07:26:01 IST" duration-ms="9018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureAppium -->
+        <test-method signature="browserTest()[pri:0, instance:com.android.app.MobileBrowserTest@741a8937]" started-at="2022-09-15T07:26:01 IST" name="browserTest" finished-at="2022-09-15T07:26:06 IST" duration-ms="4818" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.android.app.MobileBrowserTest@741a8937]" started-at="2022-09-15T07:26:06 IST" name="tearDown" finished-at="2022-09-15T07:26:07 IST" duration-ms="357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.android.app.MobileBrowserTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
